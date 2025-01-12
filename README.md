@@ -18,7 +18,7 @@
 ## 🚀 Minhas Skills
 
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,c,python,bootstrap,tailwind)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,c,bootstrap,tailwind)
 
 <br>
 
