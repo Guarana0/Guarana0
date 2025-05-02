@@ -20,7 +20,7 @@
 ![My Skills](https://skillicons.dev/icons?i=js,c,cpp,php)
 
 ### Tecnologias
-![My Skills](https://skillicons.dev/icons?i=html,css,tailwind)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,mysql)
 
 <br>
 
