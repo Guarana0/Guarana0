@@ -15,6 +15,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+## ⚠️AVISO
+<p>Não me responsabilizo por qualquer material escolar utilizado desta fonte para outros fins a não ser estudos e analise. É de plena responsabilidade de quem for usar arcar com as consequencias</p>
+
 ## 🚀 Minhas Skills
 ### Linguagens de Programação
 ![My Skills](https://skillicons.dev/icons?i=js,c,cpp,php)
