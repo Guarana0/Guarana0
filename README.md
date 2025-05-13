@@ -20,7 +20,7 @@
 
 ## 🚀 Minhas Skills
 ### Linguagens de Programação
-![My Skills](https://skillicons.dev/icons?i=js,c,cpp,php)
+![My Skills](https://skillicons.dev/icons?i=js,c,cpp,python)
 
 ### Tecnologias
 ![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,mysql)
