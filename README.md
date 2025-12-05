@@ -32,14 +32,18 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-## ⭐ GitHub Stats
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=Guarana0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="50%" style="max-width: 100%;">
+<div align="center">
+  <h2>⭐ GitHub Stats</h2>
 
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guarana0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Github Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guarana0&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guarana0&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut" alt="Top Langs"/>
+
+  <br>
+  <br>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## 📱 Contato
 
