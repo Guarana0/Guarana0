@@ -23,7 +23,7 @@
 ![My Skills](https://skillicons.dev/icons?i=html,css,postgresql)
 
 ### Aprendendo
-![My Skills](https://skillicons.dev/icons?i=django)
+![My Skills](https://skillicons.dev/icons?i=django,dart)
 
 ### Ferramentas
 ![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git)
