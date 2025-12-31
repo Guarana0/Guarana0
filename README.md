@@ -20,10 +20,13 @@
 ![My Skills](https://skillicons.dev/icons?i=js,c,cpp,python)
 
 ### Tecnologias
-![My Skills](https://skillicons.dev/icons?i=html,css,postgresql)
+![My Skills](https://skillicons.dev/icons?i=html,css,django)
+
+### Banco de Dados
+![My Skills](https://skillicons.dev/icons?i=supabase,mysql)
 
 ### Aprendendo
-![My Skills](https://skillicons.dev/icons?i=django,dart)
+![My Skills](https://skillicons.dev/icons?i=dart,flutter)
 
 ### Ferramentas
 ![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git)
