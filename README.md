@@ -17,7 +17,7 @@
 
 ## 🚀 Minhas Skills
 ### Linguagens de Programação
-![My Skills](https://skillicons.dev/icons?i=js,c,cpp,python)
+![My Skills](https://skillicons.dev/icons?i=c,cpp,python)
 
 ### Tecnologias
 ![My Skills](https://skillicons.dev/icons?i=html,css,django)
@@ -26,7 +26,7 @@
 ![My Skills](https://skillicons.dev/icons?i=supabase,mysql)
 
 ### Aprendendo
-![My Skills](https://skillicons.dev/icons?i=dart,flutter)
+![My Skills](https://skillicons.dev/icons?i=flutter,php,java)
 
 ### Ferramentas
 ![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,git)
